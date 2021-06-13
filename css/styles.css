@@ -21,10 +21,10 @@ h2{
     font-family: 'Montserrat', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     color: #112d4e;
     font-weight: normal;
-    font-size: 50px;
+    font-size: 3.125rem;
 }
 .profile_h2{
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 .profile{
     width: 30%;
